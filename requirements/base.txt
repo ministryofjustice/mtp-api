@@ -23,5 +23,5 @@ openpyxl~=3.1
 pyjwt~=2.9.0
 
 # these are used mainly in tests, but are required to load random data in test environments
-Faker~=28.1
+Faker~=33.1
 model-bakery~=1.17
